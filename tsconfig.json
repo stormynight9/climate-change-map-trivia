@@ -29,6 +29,6 @@
         ".next/types/**/*.ts",
         "src/app/[slug]/page.jsx",
         "src/test.js"
-    ],
+, "src/app/page.jsx"    ],
     "exclude": ["node_modules"]
 }
